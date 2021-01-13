@@ -11,7 +11,7 @@ public class databaseLoader extends Controller {
     Database database = new Database();
 
     //create loader objects //get filepath
-    String path = "src/Stocks.txt";
+    String path = "resources/Stocks.txt";
     String line = "";
 
 
